@@ -8,7 +8,7 @@ Sports Medicine & Movement Lab <br/>
 School of Kinesiology <br/>
 Auburn University <br/>
 Last updated: 10 December, 2019 <p/> 
-<br/>
+
 ## Files <br/>
 packages.R <br/>
 - R script used for loading frequently used packages
