@@ -7,7 +7,7 @@ R code for my abstract submitted to the 2020 annual meeting of the southeast cha
 Sports Medicine & Movement Lab <br/> 
 School of Kinesiology <br/>
 Auburn University <br/>
-Last updated: 10 December, 2019 <p/> 
+Last updated: 13 December, 2019 <p/> 
 
 ## Files <br/>
 packages.R <br/>
@@ -18,6 +18,6 @@ SEACSM_analysis.R
   - R script used for statistical analyses
   - Run before *SEACSM_plots.R* to ensure all model variables are in global environment
 
-SEACSM_plots.R
+SEACSM_plots.R (still under construction)
   - R script used for data visualization and model diagnostics
   - *SEACSM_analysis.R* should be run previously to ensure all model variables are in global environment
