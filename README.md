@@ -7,7 +7,7 @@ R code for my abstract submitted to the 2020 annual meeting of the southeast cha
 Sports Medicine & Movement Lab <br/> 
 School of Kinesiology <br/>
 Auburn University <br/>
-Last updated: 13 December, 2019 <p/> 
+Last updated: 25 January, 2020 <p/> 
 
 ## Files <br/>
 packages.R <br/>
