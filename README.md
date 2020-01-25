@@ -18,6 +18,6 @@ SEACSM_analysis.R
   - R script used for statistical analyses
   - Run before *SEACSM_plots.R* to ensure all model variables are in global environment
 
-SEACSM_plots.R (still under construction)
+SEACSM_plots.R
   - R script used for data visualization and model diagnostics
   - *SEACSM_analysis.R* should be run previously to ensure all model variables are in global environment
