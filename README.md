@@ -4,7 +4,7 @@ R code for my abstract submitted to the 2020 annual meeting of the southeast cha
 **Title**: *Humeral Segment Energy and its Relationship to Clinical Glenohumeral Measures in Youth Baseball Pitchers* <br/>
 **Authors**: Kyle Wasserberger, Jessica Downs, Gretchen Oliver
 
-Sports Medicine & Movement Lab <br/> 
+Sports Medicine & Movement Laboratory <br/> 
 School of Kinesiology <br/>
 Auburn University <br/>
 Last updated: 25 January, 2020 <p/> 
