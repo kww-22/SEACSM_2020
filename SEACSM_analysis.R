@@ -13,18 +13,23 @@
 # source('packages.R')
 
 #Prompts user to select filepath 
-dataPath <- file.choose(new = FALSE)
+# dataPath <- file.choose(new = FALSE)
 
 # read in file and name it data_master (supports sav, excel, and csv)
-if (str_detect(dataPath,"xls")) {
-  data_master <- read_excel(dataPath)
-} else if (str_detect(dataPath,"sav")) {
-  data_master <- read_sav(dataPath)
-} else {
-  data_master <- read.csv(dataPath, 
-                               na.strings = "NA", 
-                               stringsAsFactors = FALSE)
-}
+# if (str_detect(dataPath,"xls")) {
+#   data_master <- read_excel(dataPath)
+# } else if (str_detect(dataPath,"sav")) {
+#   data_master <- read_sav(dataPath)
+# } else {
+#   data_master <- read.csv(dataPath, 
+#                                na.strings = "NA", 
+#                                stringsAsFactors = FALSE)
+# }
+
+data_master <- read.csv('data_SEACSM_2020_noID.csv',
+                        na.strings = "NA",
+                        stringsAsFactors = FALSE)
+
 
 # isolate dependent variables
 HumWork.in.norm <- data_master$nHumWorkInflow
