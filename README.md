@@ -21,3 +21,6 @@ SEACSM_analysis.R
 SEACSM_plots.R
   - R script used for data visualization and model diagnostics
   - *SEACSM_analysis.R* should be run previously to ensure all model variables are in global environment
+  
+O1-Wasserberger.ppt
+  - PowerPoint presentation containing background, discussion, model stats, and data vis
